@@ -1,6 +1,5 @@
 {
   "get-started": "Get Started",
-  "structure": "Structure",
-  "built-in-components": "Built-In Components",
-  "anchors": "Anchor Links"
+  "day01": "day01",
+  "day02": "day02"
 }
